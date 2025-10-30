@@ -1,0 +1,48 @@
+# Workflow Guide: Data Visualization with Power BI
+
+## Step 1: Prepare Data
+1. Open the categorized Excel workbook containing pending and recovered delivery appointments.
+2. Ensure the following columns are present for analysis:
+   - Date (daily / weekly)
+   - Trailer ID
+   - Unload Duration (days)
+   - Recovered Status
+   - Average POGS (sales value)
+
+## Step 2: Load Data into Power BI
+1. Open Power BI Desktop.
+2. Select *Get Data → Excel* and load the prepared workbook.
+3. Confirm that all columns are correctly mapped and data types are accurate.
+
+## Step 3: Create Visualizations
+
+### Daily & Weekly Recovered Trailers
+- Use a *Line Chart* for daily counts.
+- Use a *Bar Chart* for weekly totals.
+- Purpose: Monitor operational efficiency and identify trends over time.
+
+### Unload Duration
+- Use a *Histogram* or *Box Plot* to visualize unload time distribution.
+- Purpose: Identify delays and outliers in unloading operations.
+
+### Average POGS
+- Use a *Line Chart* or *Area Chart* to track daily and weekly average sales value.
+- Purpose: Measure financial impact and assess revenue trends.
+
+## Step 4: Build Dashboard
+1. Arrange the charts on a single dashboard for a comprehensive view.
+2. Add *Filters / Slicers* for:
+   - Date range
+   - Yard
+   - Trailer type
+3. Apply *Conditional Formatting* for key metrics:
+   - Highlight trailers exceeding unload time thresholds.
+   - Mark days with unusually low recovered trailer counts.
+
+## Step 5: Share Insights
+- Export dashboards as PDF or publish to internal dashboards if allowed.
+- Use visualizations to identify:
+   - Yard congestion
+   - Pending/unloaded trailers
+   - Financial performance (POGS)
+- Make operational recommendations based on insights.
