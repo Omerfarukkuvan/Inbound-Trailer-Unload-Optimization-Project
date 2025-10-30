@@ -16,3 +16,30 @@ The purpose of this project is to collect, analyze, and visualize inbound traile
 - *Data Visualization & Reporting:* Visualize trailer and inventory data through dashboards and reports for actionable insights.
 - *Stakeholder Communication:* Establish clear and reliable communication channels with all relevant parties.
 - *Document Matching for Unload Verification:* Ensure all necessary documentation is matched to confirm trailer unloads.
+
+## Technologies Used
+- *Excel & CSV Files:* For data collection, organization, and preliminary analysis.
+- *Internal Delivery Tracking Systems:* Generic delivery tracking and appointment systems (names anonymized).
+- *Draw.io:* For process mapping and visualizing operational workflows.
+- *Power BI:* For visualizing metrics, generating dashboards, and deriving actionable insights.
+
+## Data Sources
+- *Trailer Movement Records:* Inbound trailer tracking and appointment logs (anonymized).
+- *Inventory Logs:* Status of goods entering inventory (sample data used).
+- *Case Management Records:* Logs of operational cases and exceptions (sanitized).
+- *Flat Files:* Excel/CSV extracts for reporting and ad-hoc analysis (anonymized samples).
+
+- ## Installation / Setup
+1. *Retrieve Delivery Appointment Data:* Extract pending delivery appointment records from the internal operational tracking system (anonymized for project use).  
+2. *Prepare Categorized Workbook:* Organize the appointment data into a structured Excel workbook, categorizing entries as needed for analysis.  
+3. *Save Excel Workbook:* Store the prepared workbook in the designated project folder for subsequent visualization and reporting.
+
+## Usage
+For detailed step-by-step instructions, refer to the [Workflow Guide](workflow/Workflow_Guide.md).
+
+## Results / Outcomes
+- Reduced yard congestion and ensured timely trailer unloading.
+- Minimized financial losses by tracking inventory entry accurately.
+- Improved safety compliance and reduced risk of rejected trailers.
+- Enabled actionable insights through Power BI dashboards and visualizations.
+- Established clear communication channels with relevant stakeholders.
