@@ -1,48 +1,25 @@
-# Workflow Guide: Data Visualization with Power BI
+# Workflow Guide: Trailer Tracking and Unload Process
 
-## Step 1: Prepare Data
-1. Open the categorized Excel workbook containing pending and recovered delivery appointments.
-2. Ensure the following columns are present for analysis:
-   - Date (daily / weekly)
-   - Trailer ID
-   - Unload Duration (days)
-   - Recovered Status
-   - Average POGS (sales value)
+## Step 1: Retrieve Pending Delivery Appointments
+- Extract all pending delivery appointment records from the internal database.
+- Organize the data into a categorized Excel workbook for analysis.
 
-## Step 2: Load Data into Power BI
-1. Open Power BI Desktop.
-2. Select *Get Data → Excel* and load the prepared workbook.
-3. Confirm that all columns are correctly mapped and data types are accurate.
+## Step 2: Assess Trailer Status
+- Using the process flow diagram below, check the current location and status of each trailer.
+- Verify delivery and unload dates, and identify any new appointment numbers if available.
 
-## Step 3: Create Visualizations
+## Step 3: Coordinate with Carriers
+- If a trailer has not yet been delivered, contact the carrier via the most reliable and efficient communication channels.
+- Request updated delivery status and estimated delivery time.
 
-### Daily & Weekly Recovered Trailers
-- Use a *Line Chart* for daily counts.
-- Use a *Bar Chart* for weekly totals.
-- Purpose: Monitor operational efficiency and identify trends over time.
+## Step 4: Coordinate with Warehouses
+- If a trailer has arrived at the warehouse but has not been unloaded, reach out to warehouse teams.
+- Collaborate to ensure the trailer is unloaded as quickly as possible.
 
-### Unload Duration
-- Use a *Histogram* or *Box Plot* to visualize unload time distribution.
-- Purpose: Identify delays and outliers in unloading operations.
+## Step 5: Handle Exceptions
+- If damage is detected and the trailer cannot be unloaded, take immediate action.
+- Contact all relevant stakeholders to resolve the issue promptly and safely.
 
-### Average POGS
-- Use a *Line Chart* or *Area Chart* to track daily and weekly average sales value.
-- Purpose: Measure financial impact and assess revenue trends.
-
-## Step 4: Build Dashboard
-1. Arrange the charts on a single dashboard for a comprehensive view.
-2. Add *Filters / Slicers* for:
-   - Date range
-   - Yard
-   - Trailer type
-3. Apply *Conditional Formatting* for key metrics:
-   - Highlight trailers exceeding unload time thresholds.
-   - Mark days with unusually low recovered trailer counts.
-
-## Step 5: Share Insights
-- Export dashboards as PDF or publish to internal dashboards if allowed.
-- Use visualizations to identify:
-   - Yard congestion
-   - Pending/unloaded trailers
-   - Financial performance (POGS)
-- Make operational recommendations based on insights.
+## Step 6: Data Recording and Monitoring
+- Update the Excel workbook and internal tracking systems with the latest status information.
+- Ensure that recovered trailers, unload times, and other operational metrics are recorded for further analysis.
