@@ -35,7 +35,7 @@ The purpose of this project is to collect, analyze, and visualize inbound traile
 3. *Save Excel Workbook:* Store the prepared workbook in the designated project folder for subsequent visualization and reporting.
 
 ## Usage
-For detailed step-by-step instructions, refer to the [Workflow Guide](workflow/Workflow_Guide.md).
+For detailed step-by-step instructions, refer to the [Workflow Guide](Workflow Guide).
 
 ## Results / Outcomes
 - Reduced yard congestion and ensured timely trailer unloading.
