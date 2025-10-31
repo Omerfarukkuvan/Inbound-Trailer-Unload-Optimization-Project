@@ -43,3 +43,5 @@ For detailed step-by-step instructions, refer to the [Workflow Guide](workflow/W
 - Improved safety compliance and reduced risk of rejected trailers.
 - Enabled actionable insights through Power BI dashboards and visualizations.
 - Established clear communication channels with relevant stakeholders.
+
+![Workflow Diagram](https://raw.githubusercontent.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/main/trailer4.png)
