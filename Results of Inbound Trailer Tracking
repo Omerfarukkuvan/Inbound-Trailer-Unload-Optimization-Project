@@ -1,0 +1,30 @@
+# Workflow Metrics – Inbound Trailer Tracking
+
+This table summarizes the simulated outcomes of the implemented workflow.
+
+| Metric                                         |   Value           |      Notes                                   |
+|------------------------------------------------|-------------------|----------------------------------------------|
+| Daily average delivery appointments worked on  | ~50%              | Based on illustrative cases                  |
+| Weekly recovered trailers                      | ~15               | Estimated from workflow simulation           |
+| Inventory value                                | ~$1,000,000       | Value of monitored items in system           |
+| Average response time per trailer              | ~1.5 days         | From initial contact to status update        |
+| Trailers updated within 24h                    | ~40%              | Percentage of trailers with same-day updates |
+| Cases escalated to relevant teams              | ~10/week          | Require team involvement for resolution      |
+| Estimated impact on inventory accuracy         | +5%               | Compared to pre-implementation               |
+| Follow-up efficiency                           | ~70%              | Percentage of follow-ups showing progress    |
+
+
+## Suggested Visuals
+
+# Weekly Trailer Analysis – Graphs
+
+## 1. Weekly Trailer Risk / Delay Overview
+- *Purpose:* Visualize weekly counts of delayed and rejected trailers.
+- *Description:* Two series are shown for each week: Delayed and Rejected. This combo chart provides a clear overview of weekly risks and issues.
+
+## 2. Weekly Recovered Trailers Values
+- *Purpose:* Show the weekly counts of recovered trailers.
+- *Description:* This graph indicates how many trailers were successfully recovered each week, helping track operational performance.
+
+
+Note: All numbers are simulated for illustration purposes.
