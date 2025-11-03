@@ -44,4 +44,4 @@ For detailed step-by-step instructions, refer to the [Workflow Guide](workflow/W
 - Enabled actionable insights through Power BI dashboards and visualizations.
 - Established clear communication channels with relevant stakeholders.
 
-![Workflow Diagram]([https://raw.githubusercontent.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/main/trailer4.png](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/trailer4.png))
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/trailer4.png)
