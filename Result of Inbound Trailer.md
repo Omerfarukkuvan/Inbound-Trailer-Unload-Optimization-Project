@@ -32,7 +32,7 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
 
 ---
 
-## 📅 2. daily unloaded trailer & receov
+## 📅 2. Daily Unloaded Trailer & Receovered Value
 - Shows *daily totals* for unloaded trailers and recovered value.
 - Covers data from *September 1–11, 2025*.
 - Example daily results:
