@@ -1,13 +1,13 @@
-# Inbound-Trailer-Unload-Optimization-Project
+# 📦 Inbound-Trailer-Unload-Optimization-Project
 A smart data-driven system to monitor and optimize inbound trailer operations, improving safety and reducing shipment defects.
 
-# InboundIntelliTrack
+# Inbound Tracking
 Real-time tracking and analytics for safer, efficient inbound trailer operations.
 
-## Purpose
+## 📈 Purpose
 The purpose of this project is to collect, analyze, and visualize inbound trailer data to minimize financial losses and yard congestion caused by unloaded trailers, ensure timely entry of goods into inventory, and develop a more efficient, reliable, and safe trailer tracking system.
 
-## Features
+## ⚙️ Features
 - *Real-time Trailer Tracking:* Monitor inbound trailers in real time to ensure timely operations.
 - *Unloaded Trailer Detection:* Identify trailers that have not been unloaded to prevent yard congestion.
 - *Inventory Status Monitoring:* Track the entry of goods into inventory to reduce financial losses.
@@ -23,7 +23,7 @@ The purpose of this project is to collect, analyze, and visualize inbound traile
 - *Draw.io:* For process mapping and visualizing operational workflows.
 - *Power BI:* For visualizing metrics, generating dashboards, and deriving actionable insights.
 
-## Data Sources
+## 📊 Data Sources
 - *Trailer Movement Records:* Inbound trailer tracking and appointment logs (anonymized).
 - *Inventory Logs:* Status of goods entering inventory (sample data used).
 - *Case Management Records:* Logs of operational cases and exceptions (sanitized).
@@ -43,5 +43,3 @@ For detailed step-by-step instructions, refer to the [Workflow Guide](workflow/W
 - Improved safety compliance and reduced risk of rejected trailers.
 - Enabled actionable insights through Power BI dashboards and visualizations.
 - Established clear communication channels with relevant stakeholders.
-
-![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/trailer4.png)
