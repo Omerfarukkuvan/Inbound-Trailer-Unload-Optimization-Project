@@ -1,0 +1,29 @@
+# Workflow Guide: Trailer Tracking and Unload Process
+
+## Step 1: Retrieve Pending Delivery Appointments
+- Extract all pending delivery appointment records from the internal database.
+- Organize the data into a categorized Excel workbook for analysis.
+
+## Step 2: Assess Trailer Status
+- Using the process flow diagram below, check the current location and status of each trailer.
+- Verify delivery and unload dates, and identify any new appointment numbers if available.
+
+## Step 3: Coordinate with Carriers
+- If a trailer has not yet been delivered, contact the carrier via the most reliable and efficient communication channels.
+- Request updated delivery status and estimated delivery time.
+
+## Step 4: Coordinate with Warehouses
+- If a trailer has arrived at the warehouse but has not been unloaded, reach out to warehouse teams.
+- Collaborate to ensure the trailer is unloaded as quickly as possible.
+
+## Step 5: Handle Exceptions
+- If damage is detected and the trailer cannot be unloaded, take immediate action.
+- Contact all relevant stakeholders to resolve the issue promptly and safely.
+
+## Step 6: Data Recording and Monitoring
+- Update the Excel workbook and internal tracking systems with the latest status information.
+- Ensure that recovered trailers, unload times, and other operational metrics are recorded for further analysis.
+
+## Workflow Diagram
+
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/raw/main/trailer4.png)
