@@ -40,6 +40,8 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
   - *Sep 4:* 8 trailers unloaded → $2.8M recovered (peak day)
 - Indicates fluctuating daily trailer counts and recovered values, reflecting operational variation.
 
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/Unloaded%20Trailer%20%26%20Recovered%20Value.png)
+
 ---
 
 ## 📈 3. Weekly performance
@@ -56,6 +58,8 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
 - *Total Unloaded Trailers:* 87  
 - Shows consistent performance with slightly lower recovery after Week 1.
 
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/Weekly%20Operational%20and%20Financial%20Performance.png)
+
 ---
 
 ## ⚙️ 4. Recovered Value by Delay Type
@@ -65,6 +69,8 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
   - Past Scheduled Date → *$4.68M*
   - Trailer Defect → *$10.43M*
 - Appointment-related delays caused the *highest total recovery value*.
+
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/Recovered%20Value%20by%20Delay%20Type.png)
 
 ---
 
@@ -77,6 +83,9 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
   | Trailer Defect | 36.23 | $10.43M |
 - *Overall Average Resolution Time:* 35.38 days  
 - Suggests all delay categories require ~5 weeks to close on average.
+
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/Average%20of%20Resolution%20Date.png)
+![Workflow Diagram](https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/Analysis%20on%20Average%20Resolution%20Days%20by%20Delay%20Type.png)
 
 ---
 
@@ -113,4 +122,6 @@ This folder (Inbound Trailer Results) documents the performance outcomes of the 
 - Process improvement discussions
 - Audit or report submissions
 
+- As a result of all these efforts, another key objective of this project is to collect root cause data after the delays are resolved and to work on proactive solutions to prevent such issues before they occur.
+The project will continue to evolve internally to minimize system-related problems and improve overall efficiency.
 ---
