@@ -34,7 +34,7 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
 
 ## 📅 2. Daily Unloaded Trailer & Receovered Value
 - Shows *daily totals* for unloaded trailers and recovered value.
-- Covers data from *September 1–11, 2025*.
+- Covers data from *September 1–26, 2025*.
 - Example daily results:
   - *Sep 1:* 1 trailer unloaded → $145,560 recovered  
   - *Sep 4:* 8 trailers unloaded → $2.8M recovered (peak day)
