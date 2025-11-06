@@ -117,7 +117,7 @@ This report summarizes the key findings from the dataset *“Unloaded Trailer & 
 
 ### 📁 Folder Purpose
 This folder (Inbound Trailer Results) documents the performance outcomes of the *Inbound Trailer Unloading and Recovery Analysis*, serving as a reference for:
-- Weekly KPI tracking
+- Monthly KPI tracking
 - Delay type impact analysis
 - Process improvement discussions
 - Audit or report submissions
